@@ -4,6 +4,7 @@ packages:
 autoInstallPeers: true
 
 onlyBuiltDependencies:
+  - esbuild
   - nx
 
 strictPeerDependencies: false
