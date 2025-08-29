@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "typescript.referencesCodeLens.enabled": true,
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#1a5d44",
+      "titleBar.activeForeground": "#000000",
+      "titleBar.inactiveBackground": "#1a5d44",
+      "titleBar.inactiveForeground": "#000000",
+      "activityBar.background": "#1a5d44",
+      "activityBar.foreground": "#000000",
+      "statusBar.background": "#1a5d44",
+      "statusBar.foreground": "#000000"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "nxConsole.generateAiAgentRules": true
+  }
+}
